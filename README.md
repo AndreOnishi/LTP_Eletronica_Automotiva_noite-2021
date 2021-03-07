@@ -1,2 +1,2 @@
 # LTP_noite-2021
-Programaçao Eletrônica Automotiva FATEC
+Linguagem e Tecnicas de Programaçao Eletrônica Automotiva FATEC
